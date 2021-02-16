@@ -2,3 +2,7 @@ body {
     background-color: coral;
     color: white;
 }
+
+img {
+    width: 300px;
+}
